@@ -10,3 +10,4 @@ print(f"É alfanumérico? {variavel.isalnum()}")
 print(f"É composto só por espaços? {variavel.isspace()}")
 print(f"Esta escrito com letras maiúsculas? {variavel.isupper()}")
 print(f"A primeira letra é maiúscula? {variavel.istitle()}")
+
