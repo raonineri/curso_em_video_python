@@ -1,4 +1,4 @@
-# Escreva um programa que leia um valor em metros e o exiba convertido em centimetros e milimetros.
+# Escreva um programa que leia um valor em metros e o exiba convertido em centímetros e milímetros.
 
 distancia_m = float(input("Digite uma distância em metros: "))
 print('-=' * 10)
